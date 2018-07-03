@@ -38,5 +38,5 @@ Embed lyrics into Audio File
   
 ### TODO
 - [ ] Set lyrics manually
-- [ ] Add more Sources to finding lyrics
+- [ ] Add more Sources to find lyrics
 - [ ] Support Android
