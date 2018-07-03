@@ -27,7 +27,7 @@ Embed lyrics into Audio File
 
   Coming Soon
 
-### Usage
+### Examples
 * **Album Folder**:
 
   ```python3 fyrics.py -p /home/taha/Music/A Perfect Circle/2003 - Thirteenth Step```
