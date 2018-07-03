@@ -51,7 +51,7 @@ def find(artist, title, file):
     except ID3NoHeaderError:
         print("\033[91m" + "No ID3 header found for " + artist + " - " + title + "\033[0m")
 
-    tags['USLT::eng'] = (USLT(encoding=3, lang='eng', text=item.text))
+    tags['USLT::eng'] = (USLT(encoding=3, lang='eng', text=lyrics))
     tags.save(file)
     print("Lyrics successfully added for " + artist + " - " + title)
 
