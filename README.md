@@ -21,7 +21,7 @@ Embed lyrics into Audio File
 ### Installation
 * **Linux, Windows**:
 
-  Just install requirments and [Python3.x](https://www.python.org/downloads/) and run the Script from Terminal/CMD
+  Just install requirments and [Python3.x](https://www.python.org/downloads/) and run the Script from Terminal/PowerShell
 
 * **Android**:
 
