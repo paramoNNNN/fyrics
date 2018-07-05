@@ -1,6 +1,8 @@
-## Fyrics
-Embed lyrics into Audio File
+<h1 align="center">Fyrics</h1>
 
+<div align="center">
+  <strong>Automatically Embed lyrics into Audio File</strong>
+</div>
 
 ### Requirements
 - [Python3.x](https://www.python.org/downloads/)
